@@ -1,2 +1,2 @@
-# sistemacs
+* sistemacs
 Configuración modular de emacs
